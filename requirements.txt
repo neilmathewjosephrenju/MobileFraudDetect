@@ -1,7 +1,6 @@
 pandas
 numpy
 scikit-learn
-xgboost
 matplotlib
 seaborn
 plotly
@@ -9,3 +8,4 @@ imbalanced-learn
 streamlit
 jupyter
 ipykernel
+lightgbm
