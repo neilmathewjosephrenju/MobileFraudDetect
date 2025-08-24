@@ -44,6 +44,12 @@ You can download the dataset from Kaggle here:
 
 [Download Dataset from Kaggle]([https://www.kaggle.com/datasets/your-dataset-link](https://www.kaggle.com/datasets/ealaxi/paysim1))
 
+> **Warning**
+> 
+> The model training encountered severe class imbalance, meaning the dataset contains many more samples of one class than the other (e.g., many more non-fraud than fraud cases). This can cause the model to have biased predictions toward the majority class and may lead to misleading accuracy results.
+> 
+> Special care and techniques should be used to handle imbalanced data for reliable performance, such as oversampling, undersampling, or using class weights.
+
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request.
