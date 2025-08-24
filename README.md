@@ -1,6 +1,5 @@
 # MobileFraudDetect
 
-# MobileFraudDetect
 
 # LightGBM Fraud Detection Project
 
