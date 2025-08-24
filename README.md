@@ -1,7 +1,7 @@
 # MobileFraudDetect
 
 
-# LightGBM Fraud Detection Project
+# Using LightGBM Model
 
 ## Project Structure
 - `train_lightgbm.py`: Python script to train the LightGBM model with hyperparameter tuning.
